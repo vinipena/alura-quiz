@@ -1,10 +1,13 @@
-import styled from 'styled-components'
-import db from '../db.json'
-import Widget from '../src/components/Widget'
-import QuizLogo from '../src/components/QuizLogo'
-import QuizBackground from '../src/components/QuizBackground'
-import Footer from '../src/components/Footer'
-import GitHubCorner from '../src/components/GitHubCorner'
+import styled from 'styled-components';
+import Head from 'next/head';
+import React from 'react';
+
+import db from '../db.json';
+import Widget from '../src/components/Widget';
+import QuizLogo from '../src/components/QuizLogo';
+import QuizBackground from '../src/components/QuizBackground';
+import Footer from '../src/components/Footer';
+import GitHubCorner from '../src/components/GitHubCorner';
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -27,6 +30,21 @@ export const QuizContainer = styled.div`
 export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
+      <Head>
+        <title>Quiz CSS da Alura</title>
+        <meta name="title" content="Quiz CSS da Alura" />
+        <meta name="description" content="" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://alura-quiz-git-master.vinipena.vercel.app/" />
+        <meta property="og:title" content="Quiz CSS da Alura" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://alura-quiz-git-master.vinipena.vercel.app/" />
+        <meta property="twitter:title" content="Quiz CSS da Alura" />
+        <meta property="twitter:description" content="" />
+        <meta property="twitter:image" content="" />
+      </Head>
       <QuizContainer>
         <QuizLogo />
         <Widget>
