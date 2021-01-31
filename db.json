@@ -5,7 +5,7 @@
     "questions": [
       {
         "image": "https://media.giphy.com/media/vsyKKf1t22nmw/giphy.gif",
-        "title": "Qual o nome do personagem principal da série animafa Pokemon?",
+        "title": "Qual o nome do personagem principal da série animada Pokemon?",
         "description": "Mamão com açucar!",
         "answer": 0,
         "alternatives": [
@@ -17,7 +17,7 @@
       },
       {
         "image": "https://media.giphy.com/media/mfpxonwzG1WCI/giphy.gif",
-        "title": "Qual o primeiro Pokemon a evoluir do Ash",
+        "title": "Qual foi o primeiro pokemon a evoluir do Ash",
         "description": "Foi incrivelmente rapido hahaha",
         "answer": 0,
         "alternatives": [
@@ -29,7 +29,7 @@
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Qual o nome do prof. que presentou Ash com o Pikachu?",
+        "title": "Qual o nome do professor que presentou Ash com o Pikachu?",
         "description": "Faz tempo em haha",
         "answer": 2,
         "alternatives": [
@@ -41,7 +41,7 @@
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Qual o nome do lider de ginasio que prender Ash e seus amigos em uma maquete com seus poderes psiquicos ",
+        "title": "Qual o nome do lider de ginásio que prendeu Ash e seus amigos em uma maquete usando seus poderes psiquicos ",
         "description": "Faz tempo em haha",
         "answer": 3,
         "alternatives": [
@@ -53,7 +53,7 @@
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Contra qual pokemon ocorreu a luta que culminou na evolução de Charmeleon?",
+        "title": "Contra qual pokemon ocorreu a luta que causou a evolução de Charmeleon?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
