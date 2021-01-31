@@ -1,28 +1,103 @@
 {
-    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "bg": "https://i.gadgets360cdn.com/large/pokemon_go_anniversary_bg_1499239785046.jpg?output-quality=80&output-format=webp",
+    "title": "Alura Quiz -  Pokemon Edition",
+    "description": "Vamos relembrar a infância e as aventuras dos pokemons!",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media.giphy.com/media/vsyKKf1t22nmw/giphy.gif",
+        "title": "Qual o nome do personagem principal da série animafa Pokemon?",
+        "description": "Mamão com açucar!",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Ash",
+          "Goh",
+          "Red",
+          "Brock"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/mfpxonwzG1WCI/giphy.gif",
+        "title": "Qual o primeiro Pokemon a evoluir do Ash",
+        "description": "Foi incrivelmente rapido hahaha",
+        "answer": 0,
+        "alternatives": [
+           "Caterpie",
+           "Charmander",
+           "Bulbassaur",
+           "Squirtle"
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "title": "Qual o nome do prof. que presentou Ash com o Pikachu?",
+        "description": "Faz tempo em haha",
+        "answer": 2,
+        "alternatives": [
+           "Prof. Abelardo",
+           "Prof. Nogueira",
+           "Prof. Carvalho",
+           "Diretor Carvalho"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual o nome do lider de ginasio que prender Ash e seus amigos em uma maquete com seus poderes psiquicos ",
+        "description": "Faz tempo em haha",
+        "answer": 3,
+        "alternatives": [
+           "Lt. Surge",
+           "Giovanni",
+           "Misty",
+           "Sabrina"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Contra qual pokemon ocorreu a luta que culminou na evolução de Charmeleon?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Aerodactyl",
+           "Kabutops",
+           "Executtor",
+           "Blastoise"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/7dhIuZxFW0Sc0/giphy.gif",
+        "title": "Qual o nome do rival do Ash em suas primeiras aventuras?",
+        "description": "Treta de infância",
+        "answer": 0,
+        "alternatives": [
+           "Gary",
+           "Brock",
+           "Steven",
+           "James"
+           
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/jXOxSiAx5UVnq/giphy.gif",
+        "title": "Qual a unica forma de fazer o Pikachu evoluir?",
+        "description": "Isso dai é igual nos jogos tambem!",
+        "answer": 0,
+        "alternatives": [
+           "Utilizando a Pedra Trovão",
+           "Treinando com muitas batalhas",
+           "Pikachu não evolui",
+           "Por felicidade e afeição com o treinador"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/96Xaju9KRM4ne/giphy.gif",
+        "title": "Qual o nome da cidade de nascimento de Ash",
+        "description": "Faz tempo em haha",
+        "answer": 3,
+        "alternatives": [
+           "Kanto",
+           "Saffron",
+           "Pallet",
+           "Veridian"
         ]
       }
     ],
