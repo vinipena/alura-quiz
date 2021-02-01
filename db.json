@@ -42,7 +42,7 @@
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
         "title": "Qual o nome do lider de ginásio que prendeu Ash e seus amigos em uma maquete usando seus poderes psiquicos ",
-        "description": "Faz tempo em haha",
+        "description": "Family issues que chama",
         "answer": 3,
         "alternatives": [
            "Lt. Surge",
@@ -54,7 +54,7 @@
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
         "title": "Contra qual pokemon ocorreu a luta que causou a evolução de Charmeleon?",
-        "description": "Faz tempo em haha",
+        "description": "Briga boa!",
         "answer": 0,
         "alternatives": [
            "Aerodactyl",
@@ -91,8 +91,8 @@
       {
         "image": "https://media.giphy.com/media/96Xaju9KRM4ne/giphy.gif",
         "title": "Qual o nome da cidade de nascimento de Ash",
-        "description": "Faz tempo em haha",
-        "answer": 3,
+        "description": "Mais facil impossivel!",
+        "answer": 2,
         "alternatives": [
            "Kanto",
            "Saffron",
@@ -102,7 +102,8 @@
       }
     ],
     "external": [
-      ""
+      "https://typequiz.caducarvalho.vercel.app/",
+      "https://quiz-noticia-verdadeira.biacoelho.vercel.app/"
     ],
     "theme": {
       "colors": {
